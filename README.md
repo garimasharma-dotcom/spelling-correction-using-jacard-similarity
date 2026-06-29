@@ -41,7 +41,7 @@ The notebook includes:
 ```
 Spelling-Correction-Using-Jaccard-Similarity/
 │
-├── speling correction using jacard similarity.ipynb
+├── spelling correction using jacard similarity.ipynb
 └── README.md
 ```
 
